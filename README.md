@@ -8,8 +8,8 @@
 ### College
  COCHIN UNIVERSITY COLLEGE OF ENGINEERING,KUTTANAD
 ### Team Members
-1.Jackson Geo Jacob
-2.Abhimanyu s
+1.Jackson Geo Jacob<br />
+2.Abhimanyu s<br />
 3.Jeswin Sunny
 
 ### Project Description
@@ -23,11 +23,11 @@ With people feeling bored and unmotivated without a bit of mockery, we created a
 
 ## Technical Details
 ### Technologies Used
-JavaScript 
-React
-HTML
-CSS
-Model used Gemini 1.5 Flash
+JavaScript<br />
+React<br />
+HTML<br />
+CSS<br />
+Model used Gemini 1.5 Flash<br />
 
 ## Screenshots
 Showing how the bot works in tablets 
