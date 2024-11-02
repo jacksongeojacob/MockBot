@@ -25,9 +25,9 @@ With people feeling bored and unmotivated without a bit of mockery, we created a
 ### Technologies Used
 JavaScript 
 React
-html
-css
-Gemini API
+HTML
+CSS
+Model used Gemini 1.5 Flash
 
 ## Screenshots
 Showing how the bot works in tablets 
